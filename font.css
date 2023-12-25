@@ -5,3 +5,14 @@
     font-family: 'Sarabun', sans-serif;
     
 }
+p.normal {
+    font-style: normal;
+    font-weight: bold;
+}
+p.italic {
+    font-style: italic;
+    font-weight: bold;
+}
+div > div > p {
+    font-style: larger;
+}
